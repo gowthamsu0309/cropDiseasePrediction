@@ -54,3 +54,7 @@ Java SE · Java Swing · JDBC · MySQL · SwingWorker · java.util.regex
 - Live weather API integration
 - Connection pooling (HikariCP)
 - Role-based access (Admin / Farmer)
+
+## 👨‍💻 Author
+
+**SU Gowtham** · [GitHub]https://github.com/gowthamsu0309
